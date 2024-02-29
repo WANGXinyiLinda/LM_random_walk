@@ -1,0 +1,5 @@
+locatedIn locatedIn locatedIn
+locatedIn neighborOf locatedIn
+locatedIn neighborOf locatedIn locatedIn 
+locatedIn neighborOf neighborOf locatedIn
+locatedIn neighborOf neighborOf locatedIn locatedIn

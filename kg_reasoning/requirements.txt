@@ -1,0 +1,12 @@
+numpy
+openai
+transformers
+torch
+sentencepiece
+wandb
+english-words
+scikit-learn
+scipy
+accelerate>=0.20.1
+seaborn
+matplotlib

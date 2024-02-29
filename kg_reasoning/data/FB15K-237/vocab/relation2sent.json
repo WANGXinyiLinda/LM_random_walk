@@ -1,0 +1,1187 @@
+{
+    "/base/popstra/celebrity/friendship./base/popstra/friendship/participant": [
+        "$e1 and $e2 are friends in the Popstra celebrity friendship category.",
+        "$e1 and $e2 are participants in a celebrity friendship.",
+        "$e1 is a participant in the friendship of $e2."
+    ],
+    "/film/film/prequel": [
+        "$e1 is a prequel to $e2.",
+        "$e1 is a movie that comes before $e2.",
+        "$e1 comes before $e2."
+    ],
+    "/language/human_language/countries_spoken_in": [
+        "$e1 is spoken in countries like $e2.",
+        "$e1 is spoken in countries such as $e2.",
+        "Countries like $e2 are where $e1 is spoken."
+    ],
+    "/business/job_title/people_with_this_title./business/employment_tenure/company": [
+        "$e1 is a job title held by people who work for $e2.",
+        "People who work for $e2 have the job title $e1.",
+        "$e1 is the job title of individuals employed by $e2."
+    ],
+    "/education/educational_degree/people_with_this_degree./education/education/major_field_of_study": [
+        "$e1 is a phone number categorized as $e2.",
+        "$e1 is a phone number belonging to the contact category $e2.",
+        "The contact category $e2 is associated with the phone number $e1."
+    ],
+    "/location/statistical_region/rent50_2./measurement_unit/dated_money_value/currency": [
+        "$e1 has a rental price of $e2 in the currency of the measurement unit.",
+        "The rental cost in $e1 is $e2 in the currency specified by the measurement unit.",
+        "$e2 is the amount of money in the currency of the measurement unit that is required for rent in $e1."
+    ],
+    "/organization/organization_member/member_of./organization/organization_membership/organization": [
+        "$e1 is a member of $e2 organization.",
+        "$e1 belongs to the organization $e2.",
+        "$e2 is the organization that $e1 is a member of."
+    ],
+    "/government/political_party/politicians_in_this_party./government/political_party_tenure/politician": [
+        "$e1 has politicians who belong to this political party, one of whom is $e2.",
+        "Within $e1, there are politicians who are affiliated with this political party, and $e2 is one of them.",
+        "$e2 is a politician who is a member of $e1, a political party, according to the tenure records."
+    ],
+    "/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office": [
+        "$e1 held government positions in the jurisdiction of office $e2.",
+        "$e1 was appointed to government positions in the jurisdiction of office $e2.",
+        "Government positions held by $e1 were in the jurisdiction of office $e2."
+    ],
+    "/film/actor/dubbing_performances./film/dubbing_performance/language": [
+        "$e1 has dubbing performances in the language $e2.",
+        "$e1 has performed dubbing in the language $e2.",
+        "The language $e2 is used for dubbing performances of $e1."
+    ],
+    "/education/field_of_study/students_majoring./education/education/major_field_of_study": [
+        "$e1 is the field of study in which students major, and $e2 is the major field of study.",
+        "$e1 is the major field of study for students majoring in $e2.",
+        "Students majoring in $e2 study $e1 as their field of study."
+    ],
+    "/base/biblioness/bibs_location/country": [
+        "$e1 is located in $e2 country.",
+        "$e1 is situated in the country $e2.",
+        "$e2 is the country where $e1 is located."
+    ],
+    "/baseball/baseball_team/team_stats./baseball/baseball_team_stats/season": [
+        "$e1's team stats are recorded for the season $e2.",
+        "The season $e2 has recorded team stats for $e1.",
+        "$e1's team has season stats for the season $e2."
+    ],
+    "/award/award_category/disciplines_or_subjects": [
+        "$e1 is an award category that encompasses disciplines or subjects related to $e2.",
+        "Disciplines or subjects related to $e2 fall under the award category of $e1.",
+        "$e2 is a discipline or subject that is included in the award category of $e1."
+    ],
+    "/people/person/nationality": [
+        "$e1 is of $e2 nationality.",
+        "$e1 holds $e2 nationality.",
+        "$e1 is a citizen of $e2."
+    ],
+    "/base/biblioness/bibs_location/state": [
+        "$e1 is located in the state $e2.",
+        "The state $e2 is where $e1 is located.",
+        "$e1 is situated in $e2, which is a state."
+    ],
+    "/music/genre/parent_genre": [
+        "The genre $e1 is a subgenre of $e2.",
+        "$e1 belongs to the parent genre $e2.",
+        "$e2 is the parent genre of $e1."
+    ],
+    "/film/special_film_performance_type/film_performance_type./film/performance/film": [
+        "$e1 is a type of special film performance that is associated with the film $e2.",
+        "The film $e2 includes a special type of film performance known as $e1.",
+        "$e1 is a film performance type that is featured in the film $e2."
+    ],
+    "/music/group_member/membership./music/group_membership/group": [
+        "$e1 is a member of the group $e2.",
+        "$e1 is part of the group $e2.",
+        "$e2 is the group that $e1 belongs to."
+    ],
+    "/film/film/film_art_direction_by": [
+        "$e1 was created with the art direction by $e2.",
+        "The art direction of $e1 was done by $e2.",
+        "$e2 was responsible for the art direction of $e1."
+    ],
+    "/people/cause_of_death/people": [
+        "$e1 is the cause of death for $e2.",
+        "$e1 is what caused $e2 to die.",
+        "$e2 died because of $e1."
+    ],
+    "/base/aareas/schema/administrative_area/administrative_parent": [
+        "$e1 is an administrative area that has $e2 as its administrative parent.",
+        "$e1 is a subregion of $e2 in terms of administrative hierarchy.",
+        "$e2 is the administrative parent of $e1, which is an area within its jurisdiction."
+    ],
+    "/music/genre/artists": [
+        "$e1 is a genre of music that includes artists like $e2.",
+        "$e1 is a music genre that $e2 belongs to.",
+        "Artists like $e2 are associated with the music genre $e1."
+    ],
+    "/soccer/football_player/current_team./sports/sports_team_roster/team": [
+        "$e1 currently plays for the team $e2 in soccer.",
+        "$e1 is a football player who is currently a member of the team $e2.",
+        "The team $e2 has $e1 as one of its current soccer players."
+    ],
+    "/people/deceased_person/place_of_burial": [
+        "$e1 was buried in the place $e2.",
+        "The place where $e1 was buried is $e2.",
+        "$e2 is the burial place of $e1."
+    ],
+    "/music/artist/contribution./music/recording_contribution/performance_role": [
+        "$e1 played a role in $e2's performance contribution in a recording.",
+        "$e1 contributed in terms of performance role to $e2's recording.",
+        "The performance role of $e1 is evident in $e2's recording contribution."
+    ],
+    "/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months": [
+        "$e1 is a seasonal month when produce is available in $e2.",
+        "In $e2, $e1 is the month when produce is available.",
+        "Produce is available in $e2 during the seasonal month $e1."
+    ],
+    "/education/educational_institution_campus/educational_institution": [
+        "$e1 is an educational institution campus of $e2.",
+        "$e2 has an educational institution campus called $e1.",
+        "$e2 has a campus named $e1 where educational activities take place."
+    ],
+    "/award/award_winner/awards_won./award/award_honor/award_winner": [
+        "$e1 has won awards as an award winner recognized by $e2.",
+        "$e1 is an award winner who has won awards honored by $e2.",
+        "$e2 recognizes $e1 as a recipient of awards."
+    ],
+    "/medicine/disease/risk_factors": [
+        "$e1 has risk factors for the disease $e2.",
+        "Having certain risk factors puts $e1 at risk for the disease $e2.",
+        "$e1 is associated with an increased risk of developing the disease $e2."
+    ],
+    "/people/ethnicity/geographic_distribution": [
+        "$e1 is geographically distributed in regions like $e2.",
+        "$e1 has a geographic distribution that includes regions like $e2.",
+        "Regions like $e2 are where $e1 is geographically distributed."
+    ],
+    "/tv/tv_program/genre": [
+        "$e1 belongs to the genre $e2.",
+        "$e1 is classified as a genre $e2.",
+        "The genre of $e1 is $e2."
+    ],
+    "/sports/sports_position/players./sports/sports_team_roster/position": [
+        "$e1 is a sports position that players in the position $e2 play.",
+        "Players in the position $e2 play the sports position $e1.",
+        "$e2 is the sports position that players in $e1 are a part of."
+    ],
+    "/sports/sports_league/teams./sports/sports_league_participation/team": [
+        "$e1 is a sports league that includes teams like $e2.",
+        "Teams like $e2 are part of the sports league $e1.",
+        "$e2 is a team that participates in the sports league $e1."
+    ],
+    "/education/educational_degree/people_with_this_degree./education/education/student": [
+        "$e1 is an educational degree held by students of $e2.",
+        "Students of $e2 have the educational degree $e1.",
+        "$e1 is the educational degree obtained by students studying at $e2."
+    ],
+    "/people/person/place_of_birth": [
+        "$e1 was born in $e2.",
+        "$e1's place of birth is $e2.",
+        "$e2 is the birthplace of $e1."
+    ],
+    "/base/aareas/schema/administrative_area/capital": [
+        "$e1 is the capital of $e2.",
+        "$e2 has $e1 as its capital.",
+        "The capital of $e2 is $e1."
+    ],
+    "/education/university/domestic_tuition./measurement_unit/dated_money_value/currency": [
+        "$e1's domestic tuition is $e2.",
+        "The domestic tuition for $e1 is $e2.",
+        "$e1 costs $e2 for domestic tuition."
+    ],
+    "/people/profession/specialization_of": [
+        "$e1 is a specialization of $e2.",
+        "$e2 is a profession that has a specialization known as $e1.",
+        "$e2 has a specialized area known as $e1."
+    ],
+    "/music/instrument/instrumentalists": [
+        "$e1 is an instrument played by $e2.",
+        "$e2 is an instrumentalist who plays the instrument $e1.",
+        "$e2 plays the instrument $e1."
+    ],
+    "/sports/sports_team/colors": [
+        "$e1 has colors represented by the sports team $e2.",
+        "The colors of $e1 are associated with the sports team $e2.",
+        "$e2 is the sports team that has colors represented by $e1."
+    ],
+    "/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division": [
+        "$e1 is the capital of $e2.",
+        "$e1 is the administrative division where $e2 is the capital.",
+        "The administrative division $e2 has $e1 as its capital."
+    ],
+    "/film/film/dubbing_performances./film/dubbing_performance/actor": [
+        "$e1 is a film that has dubbing performances by $e2.",
+        "$e1 has dubbing performances, and $e2 is one of the actors.",
+        "$e2 is an actor who performed dubbing in the film $e1."
+    ],
+    "/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person": [
+        "$e1 and $e2 regularly appear together on TV shows as themselves.",
+        "$e1 is a person who frequently makes personal appearances on TV shows with $e2.",
+        "$e2 is a person who often appears on TV shows with $e1 as a regular personal appearance."
+    ],
+    "/user/jg/default_domain/olympic_games/sports": [
+        "$e1 is a sport that is part of the Olympic Games and $e2 is one of those sports.",
+        "One of the sports included in the Olympic Games is $e1, with $e2 being one of those sports.",
+        "$e1 is a sport that is part of the Olympic Games, and $e2 is one of the sports in that category."
+    ],
+    "/film/film/release_date_s./film/film_regional_release_date/film_regional_debut_venue": [
+        "$e1 was released on the regional debut venue $e2.",
+        "The regional debut venue $e2 is where $e1 was released.",
+        "$e1 had its release on $e2, the regional debut venue."
+    ],
+    "/organization/organization_founder/organizations_founded": [
+        "$e1 founded $e2.",
+        "$e1 is the founder of $e2.",
+        "$e2 is an organization that was founded by $e1."
+    ],
+    "/education/educational_institution/students_graduates./education/education/major_field_of_study": [
+        "$e1 is an educational institution where students graduate in the major field of study $e2.",
+        "Students who graduate from $e1 specialize in the major field of study $e2.",
+        "$e1 produces graduates who have expertise in the major field of study $e2."
+    ],
+    "/business/business_operation/operating_income./measurement_unit/dated_money_value/currency": [
+        "$e1 has an operating income denoted in the currency $e2.",
+        "The operating income of $e1 is expressed in the currency $e2.",
+        "The currency $e2 is used to represent the operating income of $e1."
+    ],
+    "/base/americancomedy/celebrity_impressionist/celebrities_impersonated": [
+        "$e1 impersonates celebrities like $e2.",
+        "$e1 does celebrity impressions of $e2.",
+        "Celebrities like $e2 are impersonated by $e1."
+    ],
+    "/location/country/second_level_divisions": [
+        "$e1 has second level divisions like $e2.",
+        "$e2 is one of the second level divisions in $e1.",
+        "$e2 is a subdivision of $e1 at the second level."
+    ],
+    "/influence/influence_node/peers./influence/peer_relationship/peers": [
+        "$e1 and $e2 are peers in terms of influence.",
+        "$e1 and $e2 are considered peers in the context of influence.",
+        "$e1 and $e2 have a peer relationship in the domain of influence."
+    ],
+    "/film/film/music": [
+        "$e1 has music composed for it, which is $e2.",
+        "The music for $e1 is composed by $e2.",
+        "$e2 composes the music for $e1."
+    ],
+    "/people/person/spouse_s./people/marriage/location_of_ceremony": [
+        "$e1 and $e2 got married at the location of the ceremony.",
+        "The marriage ceremony of $e1 and $e2 took place at the location of the ceremony.",
+        "The location of the ceremony is where $e1 and $e2 had their wedding."
+    ],
+    "/people/person/religion": [
+        "$e1 follows the religion of $e2.",
+        "$e1 has the religious affiliation of $e2.",
+        "$e2 is the religion practiced by $e1."
+    ],
+    "/base/popstra/celebrity/breakup./base/popstra/breakup/participant": [
+        "$e1 and $e2 went through a breakup.",
+        "$e1 and $e2 were participants in a celebrity breakup.",
+        "$e1 is a participant in the breakup of $e2."
+    ],
+    "/location/location/partially_contains": [
+        "$e1 partially contains $e2 in terms of location.",
+        "$e2 is partially located within $e1.",
+        "$e1 is a location that includes $e2 within its boundaries."
+    ],
+    "/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country": [
+        "$e1 is a sport in which athletes representing $e2 participate in the Olympics.",
+        "$e1 is a sport in the Olympics that is affiliated with athletes from $e2.",
+        "$e2 is the country whose athletes participate in $e1 in the Olympics."
+    ],
+    "/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor": [
+        "$e1 and $e2 are actors in a regular TV appearance.",
+        "$e1 is an actor who regularly appears in the TV program $e2.",
+        "$e2 has a regular cast that includes $e1 as an actor."
+    ],
+    "/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics": [
+        "$e1 is an Olympic sport that athletes affiliated with the $e2 Olympics participate in.",
+        "Athletes who are affiliated with the $e2 Olympics participate in the Olympic sport $e1.",
+        "$e1 is the Olympic sport in which athletes affiliated with the $e2 Olympics participate."
+    ],
+    "/music/artist/track_contributions./music/track_contribution/role": [
+        "$e1 has track contributions in the role of $e2.",
+        "$e1 is an artist who contributes to tracks in the role of $e2.",
+        "The role of $e2 involves $e1's contributions to tracks."
+    ],
+    "/military/military_conflict/combatants./military/military_combatant_group/combatants": [
+        "$e1 and $e2 are combatants in a military conflict.",
+        "$e1 and $e2 are part of the combatants in a military conflict.",
+        "$e1 is a combatant group involved in the conflict with $e2."
+    ],
+    "/film/film/production_companies": [
+        "$e1 is produced by companies like $e2.",
+        "$e1 is produced by companies such as $e2.",
+        "Companies like $e2 are involved in the production of $e1."
+    ],
+    "/base/saturdaynightlive/snl_cast_member/seasons./base/saturdaynightlive/snl_season_tenure/cast_members": [
+        "$e1 appeared in multiple seasons of Saturday Night Live alongside $e2.",
+        "$e1 and $e2 have been cast members in the same seasons of Saturday Night Live.",
+        "$e1 and $e2 were both part of the cast during the same seasons of Saturday Night Live."
+    ],
+    "/education/university/fraternities_and_sororities": [
+        "$e1 has fraternities and sororities at $e2 university.",
+        "At $e2 university, there are fraternities and sororities in $e1.",
+        "Fraternities and sororities exist at $e2 university for $e1."
+    ],
+    "/location/country/form_of_government": [
+        "$e1 has a form of government called $e2.",
+        "The form of government in $e1 is $e2.",
+        "$e2 is the form of government in $e1."
+    ],
+    "/government/politician/government_positions_held./government/government_position_held/basic_title": [
+        "$e1 held government positions with the basic title $e2.",
+        "$e1 has served in government positions with the basic title $e2.",
+        "Government positions with the basic title $e2 were held by $e1."
+    ],
+    "/education/university/local_tuition./measurement_unit/dated_money_value/currency": [
+        "$e1's local tuition is $e2.",
+        "The local tuition of $e1 is valued at $e2.",
+        "In terms of currency, the local tuition of $e1 is $e2."
+    ],
+    "/film/director/film": [
+        "$e1 directed the film $e2.",
+        "$e1 is the director of the film $e2.",
+        "The film $e2 was directed by $e1."
+    ],
+    "/soccer/football_team/current_roster./sports/sports_team_roster/position": [
+        "$e1 has players in the position $e2 on its current soccer team roster.",
+        "The current roster of $e1's soccer team includes players in the position $e2.",
+        "$e2 is the position held by players on the current roster of $e1's soccer team."
+    ],
+    "/people/person/places_lived./people/place_lived/location": [
+        "$e1 has lived in $e2.",
+        "$e1 has resided in the location of $e2.",
+        "The place $e1 has lived in is $e2."
+    ],
+    "/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency": [
+        "$e1's real GDP is adjusted with the currency $e2.",
+        "$e1's real GDP is measured and adjusted using the currency $e2.",
+        "The real GDP of $e1 is expressed in terms of the adjustment currency $e2."
+    ],
+    "/soccer/football_team/current_roster./soccer/football_roster_position/position": [
+        "$e1's current roster includes players who play in the position $e2.",
+        "The position $e2 is played by players in the current roster of $e1.",
+        "Players in the current roster of $e1 play in the position of $e2."
+    ],
+    "/business/business_operation/industry": [
+        "$e1 belongs to the industry $e2.",
+        "The industry $e2 is associated with $e1.",
+        "$e1 operates in the industry $e2."
+    ],
+    "/film/film_set_designer/film_sets_designed": [
+        "$e1 designed the film sets for $e2.",
+        "$e1 is responsible for creating the film sets in $e2.",
+        "$e1 is the film set designer for the movie $e2."
+    ],
+    "/government/politician/government_positions_held./government/government_position_held/legislative_sessions": [
+        "$e1 has held government positions during legislative sessions $e2.",
+        "During legislative sessions $e2, $e1 has held government positions.",
+        "$e1 has held government positions throughout the legislative sessions $e2."
+    ],
+    "/film/film/written_by": [
+        "$e1 is written by $e2.",
+        "$e2 is the writer of $e1.",
+        "$e1 has $e2 as its writer."
+    ],
+    "/location/location/time_zones": [
+        "$e1 has time zones like $e2.",
+        "$e1's time zones include $e2.",
+        "Time zones like $e2 are observed in $e1."
+    ],
+    "/people/ethnicity/people": [
+        "$e1 belongs to the ethnicity of $e2.",
+        "$e1 is a member of the people of $e2.",
+        "$e2 is the ethnic group to which $e1 belongs."
+    ],
+    "/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend": [
+        "$e1 and $e2 are friends who are celebrities.",
+        "$e1 is a celebrity friend of $e2.",
+        "$e2 is a friend of $e1 who is also a celebrity."
+    ],
+    "/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/medal": [
+        "$e1 has won $e2 medals at the Olympics.",
+        "At the Olympics, $e1 has been awarded $e2 medals.",
+        "$e1 has received $e2 Olympic medals."
+    ],
+    "/people/person/sibling_s./people/sibling_relationship/sibling": [
+        "$e1 and $e2 are siblings.",
+        "$e1 and $e2 have a sibling relationship.",
+        "$e1 and $e2 are related as siblings."
+    ],
+    "/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program": [
+        "$e1 is a TV writer for $e2.",
+        "$e1 writes TV programs like $e2.",
+        "$e1 has a TV program writer relationship with $e2."
+    ],
+    "/tv/tv_producer/programs_produced./tv/tv_producer_term/program": [
+        "$e1 produced programs such as $e2.",
+        "$e2 is a program produced by $e1.",
+        "$e1 was the producer of the program $e2."
+    ],
+    "/music/performance_role/regular_performances./music/group_membership/group": [
+        "$e1 regularly performs with the music group $e2.",
+        "The music group $e2 has $e1 as a regular performer.",
+        "$e1 is a regular performer in the music group $e2."
+    ],
+    "/music/performance_role/track_performances./music/track_contribution/role": [
+        "$e1 tracks performances in the role $e2.",
+        "$e1 is responsible for tracking performances in the role $e2.",
+        "The role $e2 is tracked in performances by $e1."
+    ],
+    "/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language": [
+        "$e1's phone number service language is $e2.",
+        "The service language for the phone number of $e1 is $e2.",
+        "$e2 is the language used for the phone number service of $e1."
+    ],
+    "/award/award_winning_work/awards_won./award/award_honor/honored_for": [
+        "$e1 is an award-winning work that has won awards for being honored for $e2.",
+        "$e1 has received awards for being honored for $e2.",
+        "$e1 is a work that has won awards for its recognition of $e2."
+    ],
+    "/music/group_member/membership./music/group_membership/role": [
+        "$e1 is a member of a music group and have the role $e2.",
+        "Members of a music group, $e1, have the role $e2.",
+        "$e1 is a member of a music group with the role $e2."
+    ],
+    "/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source": [
+        "There are an estimated number of mortgages in $e1 according to $e2 as a source.",
+        "$e1 has an estimated number of mortgages, as sourced by $e2.",
+        "According to $e2, there is an estimated number of mortgages in $e1."
+    ],
+    "/people/person/spouse_s./people/marriage/spouse": [
+        "$e1 is married to $e2.",
+        "$e1 and $e2 are spouses.",
+        "$e1 and $e2 are married to each other."
+    ],
+    "/film/film/distributors./film/film_film_distributor_relationship/region": [
+        "$e1 is distributed by companies in the region $e2.",
+        "Companies in the region $e2 are the distributors of $e1.",
+        "$e1 is distributed by companies operating in the region $e2."
+    ],
+    "/base/locations/continents/countries_within": [
+        "$e1 contains countries within the continent $e2.",
+        "Within the continent $e2, there are countries in $e1.",
+        "$e1 consists of countries that are located within the continent $e2."
+    ],
+    "/award/award_winning_work/awards_won./award/award_honor/award": [
+        "$e1 has won the award $e2 for their award-winning work.",
+        "The award $e2 has been won by $e1 for their outstanding work.",
+        "$e2 is the award that has been bestowed upon $e1 for their exceptional achievement."
+    ],
+    "/organization/organization/headquarters./location/mailing_address/country": [
+        "$e1 is headquartered in $e2.",
+        "The headquarters of $e1 is located in $e2.",
+        "$e2 is the country where the headquarters of $e1 can be found."
+    ],
+    "/tv/tv_program/program_creator": [
+        "$e1 is the creator of the TV program $e2.",
+        "The TV program $e2 was created by $e1.",
+        "$e2 was brought to life by $e1, the program creator."
+    ],
+    "/award/award_category/winners./award/award_honor/ceremony": [
+        "$e1 is a category of award that winners receive at the ceremony $e2.",
+        "Winners at the ceremony $e2 receive awards in the category $e1.",
+        "The ceremony $e2 is where awards in the category $e1 are given to winners."
+    ],
+    "/music/performance_role/regular_performances./music/group_membership/role": [
+        "$e1 regularly performs in the role of $e2 in a music group.",
+        "In a music group, $e1 has regular performances in the role of $e2.",
+        "$e1 is a member of a music group and regularly performs in the role of $e2."
+    ],
+    "/location/statistical_region/religions./location/religion_percentage/religion": [
+        "$e1 has a religious composition consisting of $e2.",
+        "In $e1, the religious community is made up of $e2.",
+        "$e2 represents the percentage of religious followers in $e1."
+    ],
+    "/military/military_combatant/military_conflicts./military/military_combatant_group/combatants": [
+        "$e1 and $e2 are combatants in military conflicts.",
+        "$e1 is a military combatant group consisting of combatants involved in military conflicts with $e2.",
+        "$e2 is involved in military conflicts with combatants from $e1."
+    ],
+    "/people/ethnicity/languages_spoken": [
+        "$e1 speaks languages like $e2.",
+        "$e1 is fluent in languages such as $e2.",
+        "Languages spoken by $e1 include $e2."
+    ],
+    "/people/person/profession": [
+        "$e1 is a profession that $e2 has.",
+        "$e1 is the profession of $e2.",
+        "$e2 works in the profession of $e1."
+    ],
+    "/user/alexander/philosophy/philosopher/interests": [
+        "$e1 has interests in the field of philosophy related to $e2.",
+        "$e1 is interested in the philosophical aspects of $e2.",
+        "The interests of $e1 in philosophy revolve around $e2."
+    ],
+    "/people/deceased_person/place_of_death": [
+        "$e1 died in $e2.",
+        "$e1 passed away in $e2.",
+        "$e2 is the place where $e1 died."
+    ],
+    "/music/artist/origin": [
+        "$e1 originates from $e2.",
+        "$e2 is the place of origin of $e1.",
+        "$e1 hails from $e2."
+    ],
+    "/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant": [
+        "$e1 and $e2 canoodled.",
+        "$e1 and $e2 were participants in a celebrity canoodling.",
+        "$e1 is a participant in the canoodling of $e2."
+    ],
+    "/government/governmental_body/members./government/government_position_held/legislative_sessions": [
+        "$e1 is a member of the legislative sessions of $e2.",
+        "$e1 holds a government position in the legislative sessions of $e2.",
+        "$e2 is a governmental body where $e1 is a member during the legislative sessions."
+    ],
+    "/location/us_county/county_seat": [
+        "$e2 is the county seat of $e1.",
+        "The county seat of $e1 is $e2.",
+        "$e2 is the administrative center of $e1."
+    ],
+    "/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film": [
+        "$e1 distributed $e2 films.",
+        "$e1 is a film distributor that distributed $e2.",
+        "$e2 is a film that was distributed by $e1."
+    ],
+    "/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy": [
+        "$e1 is categorized under the taxonomy subject $e2.",
+        "The taxonomy subject $e2 includes the entry $e1.",
+        "$e1 belongs to the taxonomy $e2."
+    ],
+    "/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency": [
+        "The per capita nominal GDP of $e1 is measured in $e2 currency.",
+        "$e1 has a per capita nominal GDP measured in $e2 currency.",
+        "The currency in which the per capita nominal GDP of $e1 is measured is $e2."
+    ],
+    "/organization/organization/place_founded": [
+        "$e1 was founded in the place $e2.",
+        "The place $e2 is where $e1 was founded.",
+        "$e1 has its origins in the place $e2."
+    ],
+    "/base/eating/practicer_of_diet/diet": [
+        "$e1 practices the diet $e2.",
+        "The diet that $e1 follows is $e2.",
+        "$e2 is the diet that $e1 practices."
+    ],
+    "/people/person/employment_history./business/employment_tenure/company": [
+        "$e1 has worked for $e2.",
+        "$e2 is a company where $e1 has been employed.",
+        "$e1 has employment history with the company $e2."
+    ],
+    "/film/film/edited_by": [
+        "$e1 was edited by $e2 in the film.",
+        "$e2 was the editor of $e1 in the film.",
+        "The film $e1 was edited by $e2."
+    ],
+    "/education/educational_institution/school_type": [
+        "$e1 is a type of educational institution, such as $e2.",
+        "$e1 refers to the type of educational institution that $e2 is.",
+        "$e2 belongs to the category of educational institutions known as $e1."
+    ],
+    "/government/legislative_session/members./government/government_position_held/legislative_sessions": [
+        "$e1 is a legislative session where $e2 holds a government position.",
+        "$e1 is a session of the legislature in which $e2 serves in a government position.",
+        "The government position that $e2 holds is associated with the legislative session $e1."
+    ],
+    "/location/hud_county_place/place": [
+        "$e1 is a place located in $e2 county.",
+        "$e1 is a location within the county of $e2.",
+        "$e2 county is where you can find the place $e1."
+    ],
+    "/user/ktrueman/default_domain/international_organization/member_states": [
+        "$e1 has member states like $e2.",
+        "$e1 consists of member states such as $e2.",
+        "Member states like $e2 are part of $e1."
+    ],
+    "/sports/sport/pro_athletes./sports/pro_sports_played/athlete": [
+        "$e1 is a sport that professional athletes, including $e2, participate in.",
+        "$e2 is a professional athlete who plays the sport $e1.",
+        "$e1 is one of the pro sports played by the athlete $e2."
+    ],
+    "/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation": [
+        "To get to $e1, you can use $e2 as a mode of transportation.",
+        "$e2 is a mode of transportation used to reach $e1.",
+        "$e1 can be accessed by using $e2 as a means of transportation."
+    ],
+    "/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency": [
+        "$e1 has an endowment in the currency $e2.",
+        "The endowment of $e1 is denominated in $e2.",
+        "The currency of the endowment of $e1 is $e2."
+    ],
+    "/media_common/netflix_genre/titles": [
+        "$e1 is a movie or show available in the genre $e2 on Netflix.",
+        "Netflix offers a move or show $e2 in the genre $e1.",
+        "$e2 is a movie or show in the genre $e1 on Netflix."
+    ],
+    "/sports/sports_team/roster./american_football/football_historical_roster_position/position_s": [
+        "$e1 has $e2 position in the historical roster of the sports team.",
+        "In the historical roster of the sports team, $e1 played the position of $e2.",
+        "$e1 was listed as $e2 in the historical roster of the sports team."
+    ],
+    "/business/business_operation/assets./measurement_unit/dated_money_value/currency": [
+        "$e1 has assets valued in $e2 currency.",
+        "The assets of $e1 are valued in $e2 currency.",
+        "$e1's assets are denominated in $e2 currency."
+    ],
+    "/sports/sports_position/players./sports/sports_team_roster/team": [
+        "$e1 is a player who plays the sports position in the team $e2.",
+        "In the team $e2, there are players who play the sports position $e1.",
+        "$e1 is a sports position played by players in the team $e2."
+    ],
+    "/business/business_operation/revenue./measurement_unit/dated_money_value/currency": [
+        "$e1 generates revenue in the currency $e2.",
+        "The currency in which $e1 earns revenue is $e2.",
+        "$e1's revenue is in the currency $e2."
+    ],
+    "/people/person/spouse_s./people/marriage/type_of_union": [
+        "$e1 and $e2 are spouses.",
+        "$e1 and $e2 are in a marital union.",
+        "$e1 is in a type of union with $e2."
+    ],
+    "/film/film/film_production_design_by": [
+        "$e1 was designed by $e2 for the film production.",
+        "$e2 was responsible for the film production design of $e1.",
+        "The film production design of $e1 was done by $e2."
+    ],
+    "/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to": [
+        "$e1 exports to places like $e2.",
+        "$e1 is involved in exporting goods to destinations such as $e2.",
+        "$e2 is one of the locations to which $e1 exports its products."
+    ],
+    "/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category": [
+        "$e1 has a phone number for the contact category $e2.",
+        "The phone number of $e1 is categorized as $e2.",
+        "$e1 is associated with a phone number under the contact category $e2."
+    ],
+    "/education/educational_institution/colors": [
+        "The colors of $e1 are associated with $e2.",
+        "$e1 is represented by the colors of $e2.",
+        "The colors of $e2 are used to represent $e1."
+    ],
+    "/common/topic/webpage./common/webpage/category": [
+        "$e1 is a webpage that falls into the category $e2.",
+        "The category of $e1 is $e2, which refers to a webpage.",
+        "$e1 belongs to the category $e2 as a webpage."
+    ],
+    "/sports/sports_team_location/teams": [
+        "$e1 has teams located in $e2.",
+        "$e1 has sports teams located in $e2.",
+        "$e2 is the location where teams of $e1 are based."
+    ],
+    "/people/person/languages": [
+        "$e1 speaks $e2 languages.",
+        "$e1 is fluent in $e2 languages.",
+        "$e1 can communicate in $e2 languages."
+    ],
+    "/time/event/instance_of_recurring_event": [
+        "$e1 is an instance of a recurring event called $e2.",
+        "$e1 is a specific occurrence of the recurring event $e2.",
+        "The recurring event $e2 includes the occurrence $e1."
+    ],
+    "/film/film/country": [
+        "$e1 belongs to the country $e2.",
+        "The country $e2 is associated with $e1.",
+        "$e1 is from the country $e2."
+    ],
+    "/american_football/football_team/current_roster./sports/sports_team_roster/position": [
+        "$e1 has $e2 as a position on the current roster of the American football team.",
+        "The American football team's current roster includes $e2 as a position played by $e1.",
+        "$e2 is a position that $e1 holds on the current roster of the American football team."
+    ],
+    "/tv/tv_program/languages": [
+        "$e1 is a TV program that is available in languages like $e2.",
+        "$e1 can be watched in languages such as $e2.",
+        "Languages like $e2 are the languages in which $e1 is aired."
+    ],
+    "/dataworld/gardening_hint/split_to": [
+        "$e1 can be split into $e2.",
+        "One can divide $e1 into several $e2.",
+        "$e1 can be separated into different $e2."
+    ],
+    "/tv/tv_network/programs./tv/tv_network_duration/program": [
+        "$e1 has programs on the TV network $e2.",
+        "The TV network $e2 features programs from $e1.",
+        "$e1 is a TV network that airs programs on $e2."
+    ],
+    "/olympics/olympic_games/participating_countries": [
+        "$e1 is a list of participating countries in the Olympic Games $e2.",
+        "The Olympic Games $e2 includes a collection of countries that participate, which is represented by $e1.",
+        "Countries that participate in the Olympic Games $e2 are listed in $e1."
+    ],
+    "/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer": [
+        "$e1 is a location where vacationers choose to vacation and $e2 is a vacationer who chooses this location.",
+        "Vacationers choose $e1 as their preferred vacation location and $e2 is one of these vacationers.",
+        "$e2 is a vacationer who prefers to vacation in $e1."
+    ],
+    "/medicine/disease/notable_people_with_this_condition": [
+        "The medical condition $e1 is associated with notable people including $e2.",
+        "$e1 is a disease that notable people, such as $e2, have been affected by.",
+        "$e2 is a notable individual who has been affected by the medical condition $e1."
+    ],
+    "/sports/pro_athlete/teams./sports/sports_team_roster/team": [
+        "$e1 plays for the sports team $e2.",
+        "The sports team $e2 has $e1 as a member of its roster.",
+        "$e2 is the team that $e1 is a part of as a professional athlete."
+    ],
+    "/sports/sports_team/roster./basketball/basketball_roster_position/position": [
+        "$e1 plays the position $e2 on the roster of a sports team.",
+        "$e1 is a player on the roster of a sports team, playing the position $e2.",
+        "The position $e2 is played by $e1 on the roster of a sports team."
+    ],
+    "/tv/tv_program/country_of_origin": [
+        "$e1 originates from $e2.",
+        "$e1 is a TV program that comes from $e2.",
+        "$e2 is the country of origin of $e1."
+    ],
+    "/education/field_of_study/students_majoring./education/education/student": [
+        "$e1 is a field of study that students major in, with $e2 being a student.",
+        "Students majoring in $e1 include $e2.",
+        "$e2 is a student majoring in the field of study $e1."
+    ],
+    "/film/actor/film./film/performance/special_performance_type": [
+        "$e1 performed a special type of performance in the film $e2.",
+        "In the film $e2, $e1 had a special performance type.",
+        "The special performance type of $e1 can be seen in the film $e2."
+    ],
+    "/music/record_label/artist": [
+        "$e1 is a music record label that represents $e2 as an artist.",
+        "$e2 is an artist signed to the music record label $e1.",
+        "$e2 is affiliated with the music record label $e1 as an artist."
+    ],
+    "/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed": [
+        "$e1 is one of the top dog breeds in the city with dogs $e2.",
+        "In the city with dogs $e2, $e1 is among the most popular dog breeds.",
+        "$e1 is a dog breed that is commonly found in the city with dogs $e2."
+    ],
+    "/film/film/film_festivals": [
+        "$e1 has been showcased in film festivals like $e2.",
+        "Film festivals such as $e2 have featured $e1.",
+        "$e2 is one of the film festivals where $e1 has been screened."
+    ],
+    "/sports/sports_position/players./american_football/football_historical_roster_position/position_s": [
+        "$e1 is a position played by $e2 in American football.",
+        "$e2 is a player who plays the position $e1 in American football.",
+        "In American football, $e2 plays the position $e1."
+    ],
+    "/organization/organization/headquarters./location/mailing_address/state_province_region": [
+        "$e1 has its headquarters in $e2's mailing address in the state/province/region.",
+        "The mailing address of $e1's headquarters is located in $e2's state/province/region.",
+        "$e1's headquarters is situated in the state/province/region of $e2's mailing address."
+    ],
+    "/organization/organization/child./organization/organization_relationship/child": [
+        "$e1 is the child organization of $e2.",
+        "$e1 is an organization that is a child of $e2.",
+        "$e2 is the parent organization of $e1."
+    ],
+    "/film/film/genre": [
+        "$e1 belongs to the genre $e2.",
+        "The genre of $e1 is $e2.",
+        "$e1 falls under the category of genre $e2."
+    ],
+    "/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics": [
+        "$e1 is an Olympic participating country, and $e2 is one of the athletes affiliated with it.",
+        "$e2 is an athlete affiliated with the Olympics from $e1, an Olympic participating country.",
+        "$e2 is an athlete affiliated with the Olympics, representing $e1, an Olympic participating country."
+    ],
+    "/award/award_category/winners./award/award_honor/award_winner": [
+        "$e1 has winners who have received the award honors as $e2.",
+        "$e1 has been won by individuals who have been honored with the award as $e2.",
+        "$e2 is the recipient of the award honors in the category $e1."
+    ],
+    "/olympics/olympic_games/sports": [
+        "$e1 includes sports like $e2 in the Olympics.",
+        "In the Olympics, sports like $e2 are part of $e1.",
+        "$e2 is one of the sports included in $e1 in the Olympics."
+    ],
+    "/base/culturalevent/event/entity_involved": [
+        "$e1 and $e2 are entities involved in a cultural event.",
+        "A cultural event involves both $e1 and $e2.",
+        "$e1 and $e2 participate in a cultural event."
+    ],
+    "/music/performance_role/guest_performances./music/recording_contribution/performance_role": [
+        "$e1 makes guest performances in the music industry alongside $e2.",
+        "$e1 contributes to recorded performances in the music industry as a guest performer with $e2.",
+        "$e2 is a recording contribution role in which $e1 performs as a guest in the music industry."
+    ],
+    "/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type": [
+        "$e1 is a TV program producer who has the producer type $e2.",
+        "$e1 is a TV producer whose producer type is $e2.",
+        "$e1 is a producer of TV programs who is classified under the producer type $e2."
+    ],
+    "/film/film/costume_design_by": [
+        "$e2 designed the costumes for the film $e1.",
+        "The costumes for the film $e1 were designed by $e2.",
+        "$e2 is the costume designer for the film $e1."
+    ],
+    "/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office": [
+        "$e1 holds a government office position in the jurisdiction of $e2.",
+        "The jurisdiction of $e2 is where $e1 holds a government office position.",
+        "$e1 is an officeholder in the jurisdiction of $e2."
+    ],
+    "/film/film/estimated_budget./measurement_unit/dated_money_value/currency": [
+        "The estimated budget of $e1 is in $e2 currency.",
+        "$e1 has an estimated budget in $e2 currency.",
+        "The currency of the estimated budget for $e1 is $e2."
+    ],
+    "/location/country/capital": [
+        "The capital of $e1 is $e2.",
+        "$e2 is the capital city of $e1.",
+        "$e1 has $e2 as its capital."
+    ],
+    "/location/location/adjoin_s./location/adjoining_relationship/adjoins": [
+        "$e1 adjoins $e2.",
+        "$e1 and $e2 are locations that are adjacent to each other.",
+        "$e1 is an adjoining location to $e2."
+    ],
+    "/film/film/produced_by": [
+        "$e1 is produced by $e2.",
+        "$e2 produces $e1.",
+        "The movie $e1 is a product of $e2."
+    ],
+    "/award/award_nominee/award_nominations./award/award_nomination/nominated_for": [
+        "$e1 has been nominated for $e2.",
+        "$e1 received award nominations for $e2.",
+        "$e1 is a nominee for the award category $e2."
+    ],
+    "/sports/professional_sports_team/draft_picks./sports/sports_league_draft_pick/school": [
+        "$e1's professional sports team has draft picks from $e2's school.",
+        "$e1's professional sports team selects players from $e2's school in the draft.",
+        "Players from $e2's school are chosen as draft picks by $e1's professional sports team."
+    ],
+    "/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony": [
+        "$e1 is a marriage union type that has unions of this type with ceremonies held in $e2.",
+        "Ceremonies held in $e2 are where unions of the marriage union type $e1 take place.",
+        "$e1 is a type of marriage union that typically has ceremonies held in $e2."
+    ],
+    "/film/film/language": [
+        "$e1 is a film that is in the language $e2.",
+        "$e1 is a movie that is spoken in $e2.",
+        "The language of $e1 is $e2."
+    ],
+    "/medicine/symptom/symptom_of": [
+        "$e1 is a symptom that is a symptom of $e2.",
+        "$e1 is a symptom of $e2.",
+        "$e2 is a condition where $e1 is a symptom."
+    ],
+    "/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency": [
+        "$e1 has a net worth denominated in the currency $e2.",
+        "The net worth of $e1 is in the currency $e2.",
+        "$e1's net worth is expressed in $e2 currency."
+    ],
+    "/base/marchmadness/ncaa_basketball_tournament/seeds./base/marchmadness/ncaa_tournament_seed/team": [
+        "$e1 is the seed for the team $e2 in the NCAA basketball tournament.",
+        "The team $e2 has the seed $e1 in the NCAA basketball tournament.",
+        "The NCAA basketball tournament seed of the team $e2 is $e1."
+    ],
+    "/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program": [
+        "$e1 regularly appears on a TV program called $e2.",
+        "$e1 makes regular appearances on the TV show $e2.",
+        "The TV program $e2 features $e1 as a regular personality."
+    ],
+    "/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency": [
+        "$e1's GDP nominal is measured in the currency $e2.",
+        "The currency $e2 is used to measure the GDP nominal of $e1.",
+        "The GDP nominal of $e1 is expressed in the currency $e2."
+    ],
+    "/award/award_ceremony/awards_presented./award/award_honor/honored_for": [
+        "$e1 is an award ceremony where $e2 is honored.",
+        "$e1 presents awards to individuals honored for $e2.",
+        "$e2 is the reason why individuals are honored at the award ceremony $e1."
+    ],
+    "/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for": [
+        "$e1 was nominated for an award for $e2.",
+        "$e1 received award nominations for $e2.",
+        "$e1 was recognized for $e2 with award nominations."
+    ],
+    "/film/film/runtime./film/film_cut/film_release_region": [
+        "$e1 has a runtime in the film release region of $e2.",
+        "In the film release region of $e2, $e1 has a specific runtime.",
+        "$e1 has a designated runtime for the film release region of $e2."
+    ],
+    "/base/popstra/celebrity/dated./base/popstra/dated/participant": [
+        "$e1 and $e2 dated each other.",
+        "$e1 and $e2 were participants in a celebrity relationship.",
+        "$e1 and $e2 were in a romantic relationship."
+    ],
+    "/location/administrative_division/first_level_division_of": [
+        "$e1 is the first-level division of $e2.",
+        "$e2 is divided into first-level divisions, and $e1 is one of them.",
+        "$e1 is a higher-level administrative division within $e2."
+    ],
+    "/base/x2010fifaworldcupsouthafrica/world_cup_squad/current_world_cup_squad./base/x2010fifaworldcupsouthafrica/current_world_cup_squad/current_club": [
+        "$e1's current club in the current World Cup squad for the 2010 FIFA World Cup South Africa is $e2.",
+        "The current club of $e1 in the current World Cup squad for the 2010 FIFA World Cup South Africa is $e2.",
+        "$e2 is the current club of $e1 in the current World Cup squad for the 2010 FIFA World Cup South Africa."
+    ],
+    "/film/film/film_format": [
+        "$e1 is a film that is in the film format $e2.",
+        "The film format of $e1 is $e2.",
+        "$e2 is the format in which the film $e1 is made."
+    ],
+    "/film/film/featured_film_locations": [
+        "$e1 features film locations like $e2.",
+        "$e1 includes film locations such as $e2.",
+        "Film locations like $e2 are featured in $e1."
+    ],
+    "/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month": [
+        "The climate of the travel destination $e1 varies throughout the year, with the monthly climate in $e2.",
+        "The monthly climate in $e2 is a factor that determines the climate of the travel destination $e1.",
+        "$e2 is a specific month that plays a role in shaping the climate of the travel destination $e1."
+    ],
+    "/tv/tv_producer/programs_produced./tv/tv_producer_term/producer_type": [
+        "$e1 produces programs of the producer type $e2.",
+        "The programs produced by $e1 fall under the category of $e2.",
+        "$e1 is a tv producer known for producing programs of the producer type $e2."
+    ],
+    "/influence/influence_node/influenced_by": [
+        "$e1 is influenced by $e2.",
+        "$e2 has an influence on $e1.",
+        "$e1 draws inspiration from $e2."
+    ],
+    "/location/hud_county_place/county": [
+        "$e1 is a county in the location $e2.",
+        "$e2 is the location where $e1 is a county.",
+        "The county $e1 belongs to the location $e2."
+    ],
+    "/sports/sports_team/roster./american_football/football_roster_position/position": [
+        "$e1 is a sports team roster position in the sport of American football for $e2.",
+        "$e1 is the position played by athletes on the roster of $e2 in American football.",
+        "$e1 is a position in American football that players on the roster of $e2 are assigned to."
+    ],
+    "/broadcast/content/artist": [
+        "$e1 is an artist involved in broadcasting content, like $e2.",
+        "$e1 is involved in broadcasting content as an artist, including $e2.",
+        "$e2 is a piece of content created by the artist $e1 in the field of broadcasting."
+    ],
+    "/organization/organization/headquarters./location/mailing_address/citytown": [
+        "$e1's headquarters is located in $e2.",
+        "$e1 is based in the city of $e2.",
+        "$e2 is the city where the headquarters of $e1 is located."
+    ],
+    "/music/instrument/family": [
+        "$e1 belongs to the musical instrument family $e2.",
+        "The musical instrument $e1 is part of the family $e2.",
+        "$e2 is the family to which the musical instrument $e1 belongs."
+    ],
+    "/education/educational_institution/students_graduates./education/education/student": [
+        "$e1 is an educational institution where students graduate and $e2 is a student of that educational institution.",
+        "$e1 is an educational institution that has students who graduate, and $e2 is one of those students.",
+        "$e2 is a student who graduates from the educational institution $e1."
+    ],
+    "/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics": [
+        "$e1 has won medals in the Olympics $e2.",
+        "The Olympics $e2 has awarded medals to participants from $e1.",
+        "$e1 has received Olympic medals in the event $e2."
+    ],
+    "/film/film/other_crew./film/film_crew_gig/film_crew_role": [
+        "$e1 is a film crew role performed by $e2.",
+        "$e1 is a role in the film crew that $e2 performs.",
+        "$e2 performs the film crew role of $e1."
+    ],
+    "/sports/professional_sports_team/draft_picks./sports/sports_league_draft_pick/draft": [
+        "$e1 is a draft pick of the professional sports team in the draft of $e2.",
+        "The professional sports team selected $e1 in the draft of $e2.",
+        "$e1 was chosen by the professional sports team in the draft of $e2."
+    ],
+    "/olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medal": [
+        "$e1 awards $e2 medals.",
+        "$e1 bestows medals to athlete $e2.",
+        "Athlete $e2 receive medals from $e1."
+    ],
+    "/award/award_category/nominees./award/award_nomination/nominated_for": [
+        "$e1 is a category of awards for which $e2 has been nominated.",
+        "$e1 is the award category that includes $e2 as a nominee.",
+        "$e2 has been nominated for an award in the category $e1."
+    ],
+    "/award/award_nominee/award_nominations./award/award_nomination/award_nominee": [
+        "$e1 and $e2 were nominated for an award.",
+        "An award nomination was given to both $e1 and $e2.",
+        "Both $e1 and $e2 received award nominations."
+    ],
+    "/location/administrative_division/country": [
+        "$e1 is a country located in the administrative division $e2.",
+        "The administrative division $e2 is where $e1, a country, is situated.",
+        "$e2 is the administrative division where the country $e1 is located."
+    ],
+    "/film/film/cinematography": [
+        "$e1 has the cinematography done by $e2.",
+        "The cinematography of $e1 is done by $e2.",
+        "$e2 is responsible for the cinematography of $e1."
+    ],
+    "/film/film/distributors./film/film_film_distributor_relationship/film_distribution_medium": [
+        "$e1 is distributed by $e2 in the film distribution medium.",
+        "The film $e1 is distributed through the film distribution medium by $e2.",
+        "$e2 distributes the film $e1 using the film distribution medium."
+    ],
+    "/people/person/gender": [
+        "$e1 has a gender of $e2.",
+        "The gender of $e1 is $e2.",
+        "$e1 is identified as $e2 gender-wise."
+    ],
+    "/award/hall_of_fame/inductees./award/hall_of_fame_induction/inductee": [
+        "$e1 and $e2 are inductees of the Hall of Fame award.",
+        "The Hall of Fame award has recognized $e1 and $e2 as inductees.",
+        "$e1 and $e2 have been honored as inductees by the Hall of Fame award."
+    ],
+    "/award/award_nominee/award_nominations./award/award_nomination/award": [
+        "$e1 has received award nominations for the award $e2.",
+        "$e1 has been nominated for the award $e2.",
+        "$e1 has been recognized with award nominations in the category of $e2."
+    ],
+    "/base/aareas/schema/administrative_area/administrative_area_type": [
+        "$e1 is an administrative area of type $e2.",
+        "$e1 is categorized as an administrative area with the type $e2.",
+        "The type of $e1 is an administrative area called $e2."
+    ],
+    "/sports/sports_league_draft/picks./sports/sports_league_draft_pick/school": [
+        "$e1 is a sports league draft pick from $e2's school.",
+        "$e1 was chosen in the sports league draft from $e2's school.",
+        "$e2's school produced the sports league draft pick $e1."
+    ],
+    "/location/location/contains": [
+        "$e1 contains $e2.",
+        "$e1 is a location that includes $e2.",
+        "$e2 is within $e1."
+    ],
+    "/film/film/other_crew./film/film_crew_gig/crewmember": [
+        "$e1 and $e2 worked together on a film.",
+        "$e1 and $e2 were both crew members on a film.",
+        "$e1 is a crew member who worked with $e2 on a film."
+    ],
+    "/education/university/international_tuition./measurement_unit/dated_money_value/currency": [
+        "The international tuition at $e1 is in the currency $e2.",
+        "The currency $e2 is used for the international tuition at $e1.",
+        "$e1 charges international tuition in the currency $e2."
+    ],
+    "/education/educational_institution/campuses": [
+        "$e1 has multiple campuses, including $e2.",
+        "$e1 is an educational institution with $e2 as one of its campuses.",
+        "$e2 is one of the campuses of $e1."
+    ],
+    "/sports/sports_team/sport": [
+        "$e1 is a sports team that plays the sport $e2.",
+        "The sport $e2 is played by the sports team $e1.",
+        "$e1 participates in the sport $e2."
+    ],
+    "/award/award_winning_work/awards_won./award/award_honor/award_winner": [
+        "$e1 has won awards and $e2 is one of the award winners.",
+        "$e2 is an award winner for the award-winning work $e1.",
+        "Among the award winners, $e2 is recognized for their work in $e1."
+    ],
+    "/education/educational_degree/people_with_this_degree./education/education/institution": [
+        "$e1 is an educational degree that people with this degree have from the institution $e2.",
+        "People who have a $e1 degree have obtained it from the institution $e2.",
+        "$e1 is the educational degree obtained by individuals from the institution $e2."
+    ],
+    "/film/person_or_entity_appearing_in_film/films./film/personal_film_appearance/type_of_appearance": [
+        "$e1 appears in films, with type $e2.",
+        "$e1 has a personal film appearance of type $e2.",
+        "$e1 has a $e2 type personal appearance in some film."
+    ],
+    "/film/actor/film./film/performance/film": [
+        "$e1 acted in the film $e2.",
+        "$e1's performance can be seen in the film $e2.",
+        "$e2 is a film in which $e1 gave a performance."
+    ],
+    "/food/food/nutrients./food/nutrition_fact/nutrient": [
+        "$e1 contains the nutrient $e2.",
+        "The nutrient $e2 can be found in $e1.",
+        "$e2 is one of the nutrients found in $e1."
+    ],
+    "/ice_hockey/hockey_team/current_roster./sports/sports_team_roster/position": [
+        "$e1 has players in the position of $e2 on their current ice hockey team roster.",
+        "$e1's current ice hockey team roster includes players in the position of $e2.",
+        "Players in the position of $e2 are part of $e1's current ice hockey team roster."
+    ],
+    "/film/film/personal_appearances./film/personal_film_appearance/person": [
+        "$e1 and $e2 are connected through personal appearances in films.",
+        "$e1 has made personal appearances in films that feature $e2.",
+        "$e2 is a person who has made personal appearances in films with $e1."
+    ],
+    "/film/film/release_date_s./film/film_regional_release_date/film_release_region": [
+        "$e1 was released on $e2.",
+        "$e1 had its regional release on $e2.",
+        "$e2 is the regional release date for the film $e1."
+    ],
+    "/time/event/locations": [
+        "$e1 took place at $e2.",
+        "$e1 occurred in the locations $e2.",
+        "$e2 is where $e1 happened."
+    ],
+    "/organization/role/leaders./organization/leadership/organization": [
+        "$e1 is a leader in the organization $e2.",
+        "The organization $e2 has leaders, with $e1 being one of them.",
+        "$e1 holds a leadership role in the organization $e2."
+    ],
+    "/film/film/story_by": [
+        "$e1 is a film whose story is written by $e2.",
+        "The story of $e1 is written by $e2.",
+        "$e2 is the writer of the story for $e1."
+    ],
+    "/award/award_ceremony/awards_presented./award/award_honor/award_winner": [
+        "$e1 is an award ceremony that presented awards to $e2.",
+        "$e2 is an award winner at the award ceremony $e1.",
+        "At the award ceremony $e1, $e2 received an award."
+    ],
+    "/award/ranked_item/appears_in_ranked_lists./award/ranking/list": [
+        "$e1 appears in ranked lists in the award ranking list $e2.",
+        "The award ranking list $e2 includes $e1 in its ranked items.",
+        "$e1 is listed in ranked lists within the award ranking list $e2."
+    ],
+    "/government/legislative_session/members./government/government_position_held/district_represented": [
+        "$e1 represents a legislative session where members hold government positions and represent districts such as $e2.",
+        "$e1 is a legislative session where members hold government positions and are elected to represent the district $e2.",
+        "In $e1, the members who hold government positions are district representatives for $e2."
+    ],
+    "/film/film_subject/films": [
+        "$e1 is the subject of films, including $e2.",
+        "Films, including $e2, are based on the subject $e1.",
+        "$e1 is a topic that is depicted in films, such as $e2."
+    ],
+    "/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location": [
+        "The phone number of $e1 can be found at the service location $e2.",
+        "At the service location $e2, you can find the phone number of $e1.",
+        "$e1 has a phone number that is located at the service location $e2."
+    ],
+    "/celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity": [
+        "$e1 and $e2 are in a romantic relationship.",
+        "$e1 is a celebrity who is romantically involved with $e2.",
+        "$e2 is a celebrity involved in a romantic relationship with $e1."
+    ],
+    "/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency": [
+        "$e1 has a GNI per capita in PPP dollars in the currency $e2.",
+        "In the currency $e2, $e1 has a GNI per capita in PPP dollars.",
+        "The GNI per capita in PPP dollars of $e1 is denominated in the currency $e2."
+    ],
+    "/organization/non_profit_organization/registered_with./organization/non_profit_registration/registering_agency": [
+        "$e1 is a non-profit organization that is registered with the registering agency $e2.",
+        "The registering agency $e2 is responsible for registering non-profit organizations like $e1.",
+        "$e1 is registered with the registering agency $e2 as a non-profit organization."
+    ],
+    "/award/award_category/category_of": [
+        "$e1 is a category of awards that $e2 belongs to.",
+        "The awards in the category $e1 include $e2.",
+        "$e2 is a recipient of awards in the category $e1."
+    ],
+    "/film/film/executive_produced_by": [
+        "$e1 was executive produced by $e2.",
+        "$e2 served as an executive producer for $e1.",
+        "$e1 had $e2 as an executive producer."
+    ],
+    "/location/country/official_language": [
+        "$e1 has $e2 as its official language.",
+        "The official language of $e1 is $e2.",
+        "$e2 is the official language of the country $e1."
+    ],
+    "/sports/sports_team/roster./baseball/baseball_roster_position/position": [
+        "$e1 is a roster position played by members of $e2 sports team in baseball.",
+        "Members of $e2 sports team play the roster position $e1 in baseball.",
+        "In baseball, $e1 is the position played by players of $e2 sports team on the roster."
+    ],
+    "/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium": [
+        "$e1 was released on $e2 through a film release distribution medium.",
+        "A film release distribution medium was used to release $e1 on $e2.",
+        "$e1 was made available to audiences through a film release distribution medium on $e2."
+    ]
+}

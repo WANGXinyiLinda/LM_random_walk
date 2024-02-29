@@ -1,0 +1,17 @@
+{
+    "locatedIn": [
+        "$e1 is located in $e2.",
+        "$e2 is the continent where $e1 is situated.",
+        "$e2 is where $e1 is situated."
+    ],
+    "neighborOf": [
+        "$e1 is a neighboring country of $e2.",
+        "$e2 has $e1 as a neighboring country.",
+        "$e2 shares a border with $e1."
+    ],
+    "_locatedIn": [
+        "$e2 is located in $e1.",
+        "$e1 is the continent where $e2 is situated.",
+        "$e1 is where $e2 is situated."
+    ]
+}

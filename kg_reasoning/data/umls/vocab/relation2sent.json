@@ -1,0 +1,209 @@
+{
+    "adjacent_to": [
+        "The $e1 is adjacent to $e2.",
+        "The $e2 is next to $e1."
+    ],
+    "affects": [
+        "The $e1 affects $e2.",
+        "The $e2 is impacted by $e1.",
+        "The $e2 is influenced by $e1."
+    ],
+    "analyzes": [
+        "The $e1 analyzes $e2.",
+        "The $e2 is analyzed by $e1."
+    ],
+    "assesses_effect_of": [
+        "The $e1 assesses the effect of $e2.",
+        "The impact of $e2 is evaluated by $e1.",
+        "The $e2 is evaluated for its impact by $e1."
+    ],
+    "associated_with": [
+        "The $e1 is associated with $e2.",
+        "The $e2 is connected to $e1.",
+        "The $e2 is linked to $e1."
+    ],
+    "carries_out": [
+        "The $e1 carries out $e2.",
+        "The $e2 is executed by $e1.",
+        "The $e2 is carried out by $e1."
+    ],
+    "causes": [
+        "The $e1 causes $e2.",
+        "The $e2 is caused by $e1."
+    ],
+    "co-occurs_with": [
+        "The $e1 co-occurs with $e2.",
+        "The $e1 and $e2 occur together."
+    ],
+    "complicates": [
+        "The $e1 complicates $e2.",
+        "The presence of $e1 creates difficulties in $e2.",
+        "The presence of $e1 makes $e2 more complex."
+    ],
+    "conceptual_part_of": [
+        "The $e1 is a conceptual part of $e2.",
+        "The $e2 includes $e1 conceptually.",
+        "The $e2 incorporates $e1 as a conceptual element."
+    ],
+    "conceptually_related_to": [
+        "The $e1 is conceptually related to $e2.",
+        "The $e1 has a conceptual connection with $e2.",
+        "There is a conceptual connection between $e1 and $e2."
+    ],
+    "connected_to": [
+        "The $e1 is connected to $e2.",
+        "The $e2 is connected to $e1."
+    ],
+    "consists_of": [
+        "The $e1 consists of $e2.",
+        "The $e2 makes up $e1.",
+        "The $e2 is included in $e1."
+    ],
+    "contains": [
+        "The $e1 contains $e2.",
+        "The $e2 is included in $e1.",
+        "The $e2 is within $e1."
+    ],
+    "degree_of": [
+        "The $e1 is a degree of $e2.",
+        "A degree of $e2 can be attributed to $e1."
+    ],
+    "derivative_of": [
+        "The $e1 is a derivative of $e2.",
+        "The $e1 originates from $e2.",
+        "The $e1 is derived from $e2."
+    ],
+    "developmental_form_of": [
+        "The $e1 is a developmental form of $e2.",
+        "The $e2 is a more mature and complex structure that develops from $e1",
+        "The $e2 has a more advanced or mature state than $e1 in its development."
+    ],
+    "diagnoses": [
+        "The $e1 diagnoses $e2.",
+        "The $e2 is diagnosed with $e1"
+    ],
+    "disrupts": [
+        "The $e1 disrupts $e2.",
+        "The $e1 interferes with $e2.",
+        "The $e2 is disrupted by $e1."
+    ],
+    "evaluation_of": [
+        "The $e1 is an evaluation of $e2.",
+        "The $e2 is evaluated by $e1.",
+        "The $e1 is an assessment of $e2."
+    ],
+    "exhibits": [
+        "The $e1 exhibits $e2.",
+        "The $e1 displays $e2."
+    ],
+    "indicates": [
+        "The $e1 indicates $e2.",
+        "The $e1 signifies $e2.",
+        "The $e2 is indicated by $e1."
+    ],
+    "ingredient_of": [
+        "The $e1 is an ingredient of $e2.",
+        "The $e2 contains $e1."
+    ],
+    "interacts_with": [
+        "The $e1 interacts with $e2.",
+        "The $e1 and $e2 interact with each other.",
+        "The $e1 and $e2 engage with each other."
+    ],
+    "interconnects": [
+        "The $e1 interconnects $e2.",
+        "The $e1 links to $e2.",
+        "The $e1 is connected to $e2."
+    ],
+    "isa": [
+        "The $e1 is a $e2.",
+        "The $e1 is an example of a $e2."
+    ],
+    "issue_in": [
+        "The $e1 is an issue in $e2.",
+        "The $e2 has an issue with $e1."
+    ],
+    "location_of": [
+        "The $e1 is the location of $e2.",
+        "The $e2 can be found at $e1.",
+        "The $e2 is located at $e1."
+    ],
+    "manages": [
+        "The $e1 manages $e2.",
+        "The $e1 oversees $e2.",
+        "The $e1 is responsible for overseeing $e2."
+    ],
+    "manifestation_of": [
+        "The $e1 is a manifestation of $e2.",
+        "The $e2 is manifested in $e1."
+    ],
+    "measurement_of": [
+        "The $e1 is a measurement of $e2.",
+        "The $e2 is measured by $e1.",
+        "The $e1 measures $e2."
+    ],
+    "measures": [
+        "The $e1 measures $e2.",
+        "The $e1 is a measurement of $e2.",
+        "The $e2 is measured by $e1."
+    ],
+    "method_of": [
+        "The $e1 is a method of $e2.",
+        "The $e1 is a technique utilized by $e2.",
+        "The $e2 is a recipient of the method $e1."
+    ],
+    "occurs_in": [
+        "The $e1 occurs in $e2.",
+        "The $e2 contains $e1."
+    ],
+    "part_of": [
+        "The $e1 is a part of $e2.",
+        "The $e2 includes $e1."
+    ],
+    "performs": [
+        "The $e1 performs $e2.",
+        "The $e2 is performed by $e1.",
+        "The $e2 is carried out by $e1."
+    ],
+    "practices": [
+        "The $e1 practices $e2.",
+        "The $e1 engages in $e2.",
+        "The $e2 is practiced by $e1."
+    ],
+    "precedes": [
+        "The $e1 precedes $e2.",
+        "The $e1 comes before $e2."
+    ],
+    "prevents": [
+        "The $e1 prevents $e2.",
+        "The $e2 is prevented by $e1."
+    ],
+    "process_of": [
+        "The $e1 is a process of $e2.",
+        "The $e2 is the subject of the process $e1."
+    ],
+    "produces": [
+        "The $e1 produces $e2.",
+        "The $e2 is produced by $e1."
+    ],
+    "property_of": [
+        "The $e1 is a property of $e2.",
+        "The $e2 possesses the attribute of $e1."
+    ],
+    "result_of": [
+        "The $e1 is a result of $e2.",
+        "The $e2 produces $e1."
+    ],
+    "surrounds": [
+        "The $e1 surrounds $e2.",
+        "The $e2 is surrounded by $e1."
+    ],
+    "treats": [
+        "The $e1 treats $e2.",
+        "The $e2 is treated by $e1."
+    ],
+    "uses": [
+        "The $e1 uses $e2.",
+        "The $e2 is utilized by $e1."
+    ]
+}

@@ -1,0 +1,8 @@
+checkpoints/*
+wandb/*
+results/*
+**/*.pyc
+model_weights/*
+data_generation/__pycache__/*
+__pycache__/*
+**/*.pt

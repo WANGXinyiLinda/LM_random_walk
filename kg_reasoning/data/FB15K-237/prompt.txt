@@ -1,0 +1,31 @@
+Please generate your response based on the following demonstrations:
+
+Please translate the following knowledge graph triple into three different natural sentences: ($e1, /base/popstra/celebrity/friendship./base/popstra/friendship/participant, $e2).
+
+$e1 and $e2 are friends.
+$e1 and $e2 are participants in a celebrity friendship.
+$e1 is a participant in the friendship of $e2.
+
+Please translate the following knowledge graph triple three different natural sentences: ($e1, /film/film/prequel, $e2).
+
+$e1 is a prequel to $e2.
+$e1 is a movie that comes before $e2.
+$e1 comes before $e2.
+
+Please translate the following knowledge graph triple into three different natural sentences: ($e1, /language/human_language/countries_spoken_in, $e2).
+
+$e1 is spoken in countries like $e2.
+$e1 is spoken in countries such as $e2.
+Countries like $e2 are where $e1 is spoken.
+
+Please translate the following knowledge graph triple into three different natural sentences: ($e1, /business/job_title/people_with_this_title./business/employment_tenure/company, $e2).
+
+$e1 is a job title held by people who work for $e2.
+People who work for $e2 have the job title $e1.
+$e1 is the job title of individuals employed by $e2.
+
+Please translate the following knowledge graph triple into three different natural sentences: ($e1, /education/educational_degree/people_with_this_degree./education/education/major_field_of_study, $e2).
+
+$e1 is an educational degree that people with this degree have in the major field of study $e2.
+People who have this degree in the major field of study $e2 are individuals with the educational degree $e1.
+$e1 is the educational degree obtained by individuals in the major field of study $e2.
